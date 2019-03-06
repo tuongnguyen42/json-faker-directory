@@ -1,14 +1,14 @@
 {
   "profiles":[
     {
-     "id": "1",  
+     "id": 1,  
      "name": "1",
      "email": "1@gmail.com",
      "password": "1",
      "password": "1"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "2",
       "email": "2@gmail.com",
       "password": "2",
